@@ -36,3 +36,11 @@ The frame to the left of the letter D1 is where the diode will be installed.Inst
 
 Next, solder the MOSFET and chip resistor for the LED level shift circuit.The small part in the image is the MOSFET.If you are not attaching an LED, you can skip this step.
 
+![mos2](https://github.com/user-attachments/assets/2f440976-86ed-43c3-85a3-33f2099eb421)
+
+Like the diode, I think it will be easier to install if you solder it to one spot on the board in advance.
+
+![chip](https://github.com/user-attachments/assets/156908dc-37ef-4918-ad72-263d05994b0b)
+
+These two chip resistors are also soldered to one side of the board and then installed.
+
