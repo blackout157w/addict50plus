@@ -44,3 +44,11 @@ Like the diode, I think it will be easier to install if you solder it to one spo
 
 These two chip resistors are also soldered to one side of the board and then installed.
 
+![chip2](https://github.com/user-attachments/assets/62dae246-c0a4-41fa-bb9e-686c172c5059)
+
+The installed resistor has no directionality, so it can be installed in either direction.
+
+![led](https://github.com/user-attachments/assets/1a2a2e0b-1fad-4619-9b2c-31ca7b0edeaf)
+
+Next, attach the LED, but if you are not attaching an LED, you can omit this.If you are using a temperature-controlled soldering iron, you can usually solder at around 330℃ using leaded solder, but it is better to lower the temperature a little more than that, which may damage the LED. I think this can be prevented.If you do not have a temperature-controlled soldering iron, I think it is a good idea to avoid applying the soldering iron to one LED continuously for a long time.
+
