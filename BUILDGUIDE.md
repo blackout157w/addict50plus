@@ -75,3 +75,36 @@ Install all LEDs so that the terminal with the notch is at the mark on the top r
 ![mx](https://github.com/user-attachments/assets/a2e7f14d-3f7a-46ae-84f8-fcdb33f440be)
 
 Next, install the socket for the MX switch in the same direction as the mark on the board.I think it will be easier to work if you solder only the pad on one side as shown in the photo.
+
+![re](https://github.com/user-attachments/assets/41dc5d65-db67-4fb1-b106-effedc75b5c1)
+
+Only SW51 has the option to select either a key switch or a rotary encoder.If you want to attach a rotary encoder, I think it is better to solder the microcontroller first and then install it.For the diode D51, make sure the vertical line is at the bottom. Install in the direction shown in the image.
+
+![mcu](https://github.com/user-attachments/assets/1b987be4-356f-4747-ab10-511b389eff81)
+
+To install the microcomputer, set it as shown in the photo.If you set the short end of the pin header included with RP2040-ZERO on the microcomputer side, the height will be just right and it will be easier to work.
+
+![mcu2](https://github.com/user-attachments/assets/a26d55a2-2e2f-4a5f-bbc1-1934699cd938)
+
+Solder the short end of the pin header. There is no need to cut it because the height will be just right.
+
+![mcu3](https://github.com/user-attachments/assets/2887e272-c506-438c-8334-f2f02d54815a)
+
+Solder from the end of each pin header to prevent it from shifting, then solder all pins.
+
+![mcu4](https://github.com/user-attachments/assets/dd2b47ab-6131-4c8d-a1f5-535d82367242)
+
+Soldering complete.
+
+![mcu5](https://github.com/user-attachments/assets/a633a457-eef8-4eb1-8fa1-5dec66038e8c)
+
+On this side, cut off the extra length of the pin header with nippers and solder all the pins.
+
+![mcu6](https://github.com/user-attachments/assets/601c1692-9c47-4084-b79c-f15222097acf)
+
+Soldering complete.
+
+![spe](https://github.com/user-attachments/assets/f467cccf-fbc0-4cfb-ad38-1d241ff065d0)
+
+Installation order of each plate 1. Insert the screw from the top side of the board and attach the spacer. 2. Place the 3mm middle acrylic on the bottom side so that it fits into the spacer hole. 3. Place the 2mm acrylic on the bottom side and attach it with screws.
+
