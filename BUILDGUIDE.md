@@ -139,3 +139,15 @@ Just place it in the order of middle → top
 ![acry7](https://github.com/user-attachments/assets/d3d84f01-e053-483b-9c61-633095871cd5)
 
 Insert the key switch starting from the outer corner.
+
+![acry8](https://github.com/user-attachments/assets/65112eab-0355-44d3-a739-1394181c9c73)
+
+All key switches installed.
+
+![ledt](https://github.com/user-attachments/assets/826a8175-cfe8-4690-8351-5bc71a13871f)
+
+Connect it to a computer with a USB cable, and if you have attached an LED, turn it on and test.I think the way it looks will change depending on the design of the key switch and the color of the housing.The LED immediately to the left of the microcontroller is a layer indicator. The color changes independently because.
+
+![end](https://github.com/user-attachments/assets/64251e38-35f9-44e7-b2a0-229c0c8b8eaa)
+
+Completed by attaching the keycap The rotary encoder knob is approximately 17mm in diameter.
