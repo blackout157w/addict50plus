@@ -28,3 +28,7 @@ After restarting the microcomputer, check if you can connect from the Vial homep
 
 Solder the components to the board. Solder the diode first.
 
+![daio2](https://github.com/user-attachments/assets/120a447d-907a-41fb-af02-7091d93d8d43)
+
+The frame to the left of the letter D1 is where the diode will be installed.Install it so that the vertical line on the diode surface is on the left.I think it will be easier to work if you solder it to one side of the board in advance.Diode Solder in the same direction except for D51, where a rotary encoder can be attached.
+
