@@ -128,3 +128,14 @@ Place the middle plate in a frame shape as shown in the image.
 
 Place 2mm of acrylic on the bottom side and secure with screws.The rubber feet stabilize the position of the image.When using a rotary encoder, I think it will be easier to push the button if you attach the rubber feet near the rotary encoder.
 
+![acry5](https://github.com/user-attachments/assets/50af4fb0-865e-4fdd-9e38-2dec7b14b745)
+
+Peel off the protective sheet from the top two acrylic sheets and place them on the board.
+
+![acry6](https://github.com/user-attachments/assets/1715ed4a-61c3-4c3d-b36c-5124e2f5f096)
+
+Just place it in the order of middle → top
+
+![acry7](https://github.com/user-attachments/assets/d3d84f01-e053-483b-9c61-633095871cd5)
+
+Insert the key switch starting from the outer corner.
