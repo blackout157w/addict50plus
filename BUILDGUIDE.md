@@ -68,3 +68,10 @@ GREEN
 
 BLUE
 
+![led6](https://github.com/user-attachments/assets/ff874670-ddec-4b11-8f97-3f4e47a7b747)
+
+Install all LEDs so that the terminal with the notch is at the mark on the top right.As with other mounting parts, I think it will be easier to install if you solder that part in advance.
+
+![mx](https://github.com/user-attachments/assets/a2e7f14d-3f7a-46ae-84f8-fcdb33f440be)
+
+Next, install the socket for the MX switch in the same direction as the mark on the board.I think it will be easier to work if you solder only the pad on one side as shown in the photo.
