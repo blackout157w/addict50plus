@@ -1,4 +1,4 @@
-![led4](https://github.com/user-attachments/assets/feb2efcc-297e-4f9c-b7f0-24855497e165)# addict50plus keyboard Build Guide
+# addict50plus keyboard Build Guide
 
 ![main](https://github.com/user-attachments/assets/1dce476f-f478-4a7e-965b-9dcf54100ee1)
 # addict50plus Parts list
@@ -107,4 +107,24 @@ Soldering complete.
 ![spe](https://github.com/user-attachments/assets/f467cccf-fbc0-4cfb-ad38-1d241ff065d0)
 
 Installation order of each plate 1. Insert the screw from the top side of the board and attach the spacer. 2. Place the 3mm middle acrylic on the bottom side so that it fits into the spacer hole. 3. Place the 2mm acrylic on the bottom side and attach it with screws.
+
+![spe2](https://github.com/user-attachments/assets/24789a11-3fc9-4e59-bbe4-88adbaf9de89)
+
+The image of the installed spacer. viewed from the side is upside down.
+
+![acry](https://github.com/user-attachments/assets/d17c68dd-e037-48b1-9191-a806dde19553)
+
+The bottom middle acrylic is thin, so remove the protective sheet to prevent it from breaking.
+
+![acry2](https://github.com/user-attachments/assets/819f9d5f-6d78-4225-bae9-80791923589f)
+
+Attach the middle plate by fitting the spacer into the acrylic hole.
+
+![acry3](https://github.com/user-attachments/assets/31c3a761-7376-4d06-b235-d52e63c68ce4)
+
+Place the middle plate in a frame shape as shown in the image.
+
+![acry4](https://github.com/user-attachments/assets/888261e6-15cb-4546-9e56-255a6dd1eb7a)
+
+Place 2mm of acrylic on the bottom side and secure with screws.The rubber feet stabilize the position of the image.When using a rotary encoder, I think it will be easier to push the button if you attach the rubber feet near the rotary encoder.
 
