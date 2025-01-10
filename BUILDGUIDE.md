@@ -32,3 +32,7 @@ Solder the components to the board. Solder the diode first.
 
 The frame to the left of the letter D1 is where the diode will be installed.Install it so that the vertical line on the diode surface is on the left.I think it will be easier to work if you solder it to one side of the board in advance.Diode Solder in the same direction except for D51, where a rotary encoder can be attached.
 
+![mos](https://github.com/user-attachments/assets/21b3f21c-ca7a-43ac-9fa8-7687f5e49a9b)
+
+Next, solder the MOSFET and chip resistor for the LED level shift circuit.The small part in the image is the MOSFET.If you are not attaching an LED, you can skip this step.
+
