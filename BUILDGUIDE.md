@@ -1,4 +1,4 @@
-# addict50plus keyboard Build Guide
+![led4](https://github.com/user-attachments/assets/feb2efcc-297e-4f9c-b7f0-24855497e165)# addict50plus keyboard Build Guide
 
 ![main](https://github.com/user-attachments/assets/1dce476f-f478-4a7e-965b-9dcf54100ee1)
 # addict50plus Parts list
@@ -51,4 +51,20 @@ The installed resistor has no directionality, so it can be installed in either d
 ![led](https://github.com/user-attachments/assets/1a2a2e0b-1fad-4619-9b2c-31ca7b0edeaf)
 
 Next, attach the LED, but if you are not attaching an LED, you can omit this.If you are using a temperature-controlled soldering iron, you can usually solder at around 330℃ using leaded solder, but it is better to lower the temperature a little more than that, which may damage the LED. I think this can be prevented.If you do not have a temperature-controlled soldering iron, I think it is a good idea to avoid applying the soldering iron to one LED continuously for a long time.
+
+![led2](https://github.com/user-attachments/assets/38a90d2c-04d3-4402-89bd-d61c1ccaeba9)
+
+If you have a test microcontroller, check the LED operation here.
+
+![led3](https://github.com/user-attachments/assets/ef97bc40-bf67-4638-b1f8-9e4f710489d9)
+
+RED
+
+![led4](https://github.com/user-attachments/assets/c40e4c6c-d5f4-4c0a-8d8e-cf2b539077e2)
+
+GREEN
+
+![led5](https://github.com/user-attachments/assets/09f0e4ac-f2f7-4a1e-9ad0-0b3d9cea357a)
+
+BLUE
 
