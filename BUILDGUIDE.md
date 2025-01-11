@@ -34,7 +34,6 @@ You can freely change the key settings on this screen.
 
 For details, refer to the Vial keyboard site.
 
-Please try it.
 
 ![daio](https://github.com/user-attachments/assets/58429e36-c04c-49d2-b7ae-72d676d1ebe3)
 
@@ -160,7 +159,7 @@ viewed from the side is upside down.
 
 ![acry](https://github.com/user-attachments/assets/d17c68dd-e037-48b1-9191-a806dde19553)
 
-The bottom middle acrylic is thin, so remove the protective sheet to prevent it from breaking.
+Peel off the bottom middle acrylic protective sheet. Be careful not to break it as it is thin.
 
 ![acry2](https://github.com/user-attachments/assets/819f9d5f-6d78-4225-bae9-80791923589f)
 
