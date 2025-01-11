@@ -20,8 +20,7 @@ While pressing the BOOT button on the RP2040-ZERO, connect it to the PC using th
 ![stre](https://github.com/user-attachments/assets/2368563c-54c0-4be3-8b4a-fe820cadefca)
 
 Since it starts with mass storage, copy the addict50plus_Vial.uf2 file into the automatically opened folder.
-The file will be described later. 
-You can download it from my Github.
+The file can be downloaded from my GitHub.
 
 ![vial](https://github.com/user-attachments/assets/30a668e1-1343-4ddd-8fe3-d758f2bc0a6a)
 
