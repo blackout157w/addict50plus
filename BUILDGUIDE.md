@@ -179,6 +179,6 @@ The color changes independently because.
 
 ![end](https://github.com/user-attachments/assets/64251e38-35f9-44e7-b2a0-229c0c8b8eaa)
 
-Completed by attaching the keycap The rotary encoder knob is approximately 17mm in diameter.
+Completed by attaching the keycaps. The rotary encoder knob is approximately 17mm in diameter.
 
 # Enjoy your keyboard life!
