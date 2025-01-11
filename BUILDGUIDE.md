@@ -14,27 +14,40 @@ The bottom middle plate has a frame shape.
 
 ![zero](https://github.com/user-attachments/assets/6a6165d0-f461-4206-819e-07e254b528ae)
 
-First, install the Vial firmware on the microcontroller and test whether it works.While pressing the BOOT button on the RP2040-ZERO, connect it to the PC using the USB Type-C cable.
+First, install the Vial firmware on the microcontroller and test whether it works.
+While pressing the BOOT button on the RP2040-ZERO, connect it to the PC using the USB Type-C cable.
 
 ![stre](https://github.com/user-attachments/assets/2368563c-54c0-4be3-8b4a-fe820cadefca)
 
-Since it starts with mass storage, copy the addict50plus_Vial.uf2 file into the automatically opened folder. The file will be described later. You can download it from my Github.
+Since it starts with mass storage, copy the addict50plus_Vial.uf2 file into the automatically opened folder.
+The file will be described later. 
+You can download it from my Github.
 
 ![vial](https://github.com/user-attachments/assets/30a668e1-1343-4ddd-8fe3-d758f2bc0a6a)
 
-After restarting the microcomputer, check if you can connect from the Vial homepage using the Vial app or browser. If the connection is successful, the default keymap will be displayed. You can freely change the key settings on this screen. For details, refer to the Vial keyboard site. Please try it.
+After restarting the microcomputer, check if you can connect from the Vial homepage using the Vial app or browser.
+If the connection is successful, the default keymap will be displayed.
+You can freely change the key settings on this screen.
+For details, refer to the Vial keyboard site.
+Please try it.
 
 ![daio](https://github.com/user-attachments/assets/58429e36-c04c-49d2-b7ae-72d676d1ebe3)
 
-Solder the components to the board. Solder the diode first.
+Solder the components to the board.
+Solder the diode first.
 
 ![daio2](https://github.com/user-attachments/assets/120a447d-907a-41fb-af02-7091d93d8d43)
 
-The frame to the left of the letter D1 is where the diode will be installed.Install it so that the vertical line on the diode surface is on the left.I think it will be easier to work if you solder it to one side of the board in advance.Diode Solder in the same direction except for D51, where a rotary encoder can be attached.
+The frame to the left of the letter D1 is where the diode will be installed.
+Install it so that the vertical line on the diode surface is on the left.
+I think it will be easier to work if you solder it to one side of the board in advance.
+Diode Solder in the same direction except for D51, where a rotary encoder can be attached.
 
 ![mos](https://github.com/user-attachments/assets/21b3f21c-ca7a-43ac-9fa8-7687f5e49a9b)
 
-Next, solder the MOSFET and chip resistor for the LED level shift circuit.The small part in the image is the MOSFET.If you are not attaching an LED, you can skip this step.
+Next, solder the MOSFET and chip resistor for the LED level shift circuit.
+The small part in the image is the MOSFET.
+If you are not attaching an LED, you can skip this step.
 
 ![mos2](https://github.com/user-attachments/assets/2f440976-86ed-43c3-85a3-33f2099eb421)
 
@@ -50,7 +63,10 @@ The installed resistor has no directionality, so it can be installed in either d
 
 ![led](https://github.com/user-attachments/assets/1a2a2e0b-1fad-4619-9b2c-31ca7b0edeaf)
 
-Next, attach the LED, but if you are not attaching an LED, you can omit this.If you are using a temperature-controlled soldering iron, you can usually solder at around 330℃ using leaded solder, but it is better to lower the temperature a little more than that, which may damage the LED. I think this can be prevented.If you do not have a temperature-controlled soldering iron, I think it is a good idea to avoid applying the soldering iron to one LED continuously for a long time.
+Next, attach the LED, but if you are not attaching an LED, you can omit this.
+If you are using a temperature-controlled soldering iron, you can usually solder at around 330℃ using leaded solder, but it is better to lower the temperature a little more than that, which may damage the LED.
+I think this can be prevented.
+If you do not have a temperature-controlled soldering iron, I think it is a good idea to avoid applying the soldering iron to one LED continuously for a long time.
 
 ![led2](https://github.com/user-attachments/assets/38a90d2c-04d3-4402-89bd-d61c1ccaeba9)
 
@@ -70,15 +86,20 @@ BLUE
 
 ![led6](https://github.com/user-attachments/assets/ff874670-ddec-4b11-8f97-3f4e47a7b747)
 
-Install all LEDs so that the terminal with the notch is at the mark on the top right.As with other mounting parts, I think it will be easier to install if you solder that part in advance.
+Install all LEDs so that the terminal with the notch is at the mark on the top right.
+As with other mounting parts, I think it will be easier to install if you solder that part in advance.
 
 ![mx](https://github.com/user-attachments/assets/a2e7f14d-3f7a-46ae-84f8-fcdb33f440be)
 
-Next, install the socket for the MX switch in the same direction as the mark on the board.I think it will be easier to work if you solder only the pad on one side as shown in the photo.
+Next, install the socket for the MX switch in the same direction as the mark on the board.
+I think it will be easier to work if you solder only the pad on one side as shown in the photo.
 
 ![re](https://github.com/user-attachments/assets/41dc5d65-db67-4fb1-b106-effedc75b5c1)
 
-Only SW51 has the option to select either a key switch or a rotary encoder.If you want to attach a rotary encoder, I think it is better to solder the microcontroller first and then install it.For the diode D51, make sure the vertical line is at the bottom. Install in the direction shown in the image.
+Only SW51 has the option to select either a key switch or a rotary encoder.
+If you want to attach a rotary encoder, I think it is better to solder the microcontroller first and then install it.
+For the diode D51, make sure the vertical line is at the bottom. 
+Install in the direction shown in the image.
 
 ![mcu](https://github.com/user-attachments/assets/1b987be4-356f-4747-ab10-511b389eff81)
 
@@ -86,7 +107,8 @@ To install the microcomputer, set it as shown in the photo.If you set the short 
 
 ![mcu2](https://github.com/user-attachments/assets/a26d55a2-2e2f-4a5f-bbc1-1934699cd938)
 
-Solder the short end of the pin header. There is no need to cut it because the height will be just right.
+Solder the short end of the pin header. 
+There is no need to cut it because the height will be just right.
 
 ![mcu3](https://github.com/user-attachments/assets/2887e272-c506-438c-8334-f2f02d54815a)
 
@@ -106,11 +128,15 @@ Soldering complete.
 
 ![spe](https://github.com/user-attachments/assets/f467cccf-fbc0-4cfb-ad38-1d241ff065d0)
 
-Installation order of each plate 1. Insert the screw from the top side of the board and attach the spacer. 2. Place the 3mm middle acrylic on the bottom side so that it fits into the spacer hole. 3. Place the 2mm acrylic on the bottom side and attach it with screws.
+Installation order of each plate 
+1. Insert the screw from the top side of the board and attach the spacer.
+2. Place the 3mm middle acrylic on the bottom side so that it fits into the spacer hole.
+3. Place the 2mm acrylic on the bottom side and attach it with screws.
 
 ![spe2](https://github.com/user-attachments/assets/24789a11-3fc9-4e59-bbe4-88adbaf9de89)
 
-The image of the installed spacer. viewed from the side is upside down.
+The image of the installed spacer. 
+viewed from the side is upside down.
 
 ![acry](https://github.com/user-attachments/assets/d17c68dd-e037-48b1-9191-a806dde19553)
 
@@ -126,7 +152,8 @@ Place the middle plate in a frame shape as shown in the image.
 
 ![acry4](https://github.com/user-attachments/assets/888261e6-15cb-4546-9e56-255a6dd1eb7a)
 
-Place 2mm of acrylic on the bottom side and secure with screws.The rubber feet stabilize the position of the image.When using a rotary encoder, I think it will be easier to push the button if you attach the rubber feet near the rotary encoder.
+Place 2mm of acrylic on the bottom side and secure with screws.
+The rubber feet stabilize the position of the image.When using a rotary encoder, I think it will be easier to push the button if you attach the rubber feet near the rotary encoder.
 
 ![acry5](https://github.com/user-attachments/assets/50af4fb0-865e-4fdd-9e38-2dec7b14b745)
 
@@ -146,7 +173,10 @@ All key switches installed.
 
 ![ledt](https://github.com/user-attachments/assets/826a8175-cfe8-4690-8351-5bc71a13871f)
 
-Connect it to a computer with a USB cable, and if you have attached an LED, turn it on and test.I think the way it looks will change depending on the design of the key switch and the color of the housing.The LED immediately to the left of the microcontroller is a layer indicator. The color changes independently because.
+Connect it to a computer with a USB cable, and if you have attached an LED, turn it on and test.
+I think the way it looks will change depending on the design of the key switch and the color of the housing.
+The LED immediately to the left of the microcontroller is a layer indicator. 
+The color changes independently because.
 
 ![end](https://github.com/user-attachments/assets/64251e38-35f9-44e7-b2a0-229c0c8b8eaa)
 
