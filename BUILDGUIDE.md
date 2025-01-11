@@ -35,7 +35,7 @@ You can freely change the key settings on this screen.
 
 For details, refer to the Vial keyboard site.
 
-# Assembly procedure
+# Soldering
 ![daio](https://github.com/user-attachments/assets/58429e36-c04c-49d2-b7ae-72d676d1ebe3)
 
 Solder the components to the board.
