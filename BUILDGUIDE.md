@@ -1,7 +1,7 @@
-# addict50plus keyboard Build Guide
+# addict50plus Keyboard BUILD GUIDE
 
 ![main](https://github.com/user-attachments/assets/1dce476f-f478-4a7e-965b-9dcf54100ee1)
-# Parts list
+# PARTSLIST
 ![plist](https://github.com/user-attachments/assets/e1a9dc2d-d649-44af-9765-2a330322938a)
 
 ![ple1](https://github.com/user-attachments/assets/536c8912-2620-4de3-a461-41931ba8edc8)
@@ -12,7 +12,7 @@ PCB board and each acrylic plate.
 
 The bottom middle plate has a frame shape.
 
-# Firmware
+# FIRMWARE
 ![zero](https://github.com/user-attachments/assets/6a6165d0-f461-4206-819e-07e254b528ae)
 
 First, install the Vial firmware on the microcontroller and test whether it works.
@@ -35,7 +35,7 @@ You can freely change the key settings on this screen.
 
 For details, refer to the Vial keyboard site.
 
-# Soldering
+# SOLDERING
 ![daio](https://github.com/user-attachments/assets/58429e36-c04c-49d2-b7ae-72d676d1ebe3)
 
 Solder the components to the board.
@@ -145,7 +145,7 @@ On this side, cut off the extra length of the pin header with nippers and solder
 ![mcu6](https://github.com/user-attachments/assets/601c1692-9c47-4084-b79c-f15222097acf)
 
 Soldering complete.
-
+# CASE
 ![spe](https://github.com/user-attachments/assets/f467cccf-fbc0-4cfb-ad38-1d241ff065d0)
 
 Installation order of each plate 
@@ -191,7 +191,7 @@ Insert the key switch starting from the outer corner.
 ![acry8](https://github.com/user-attachments/assets/65112eab-0355-44d3-a739-1394181c9c73)
 
 All key switches installed.
-
+# TEST
 ![ledt](https://github.com/user-attachments/assets/826a8175-cfe8-4690-8351-5bc71a13871f)
 
 Connect it to a computer with a USB cable, and if you have attached an LED, turn it on and test.
@@ -201,7 +201,7 @@ I think the way it looks will change depending on the design of the key switch a
 The LED immediately to the left of the microcontroller is a layer indicator. 
 
 The color changes independently because.
-
+# FINAL BUILD
 ![end](https://github.com/user-attachments/assets/64251e38-35f9-44e7-b2a0-229c0c8b8eaa)
 
 Completed by attaching the keycaps. The rotary encoder knob is approximately 17mm in diameter.
