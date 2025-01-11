@@ -3,7 +3,7 @@
 ![main](https://github.com/user-attachments/assets/1dce476f-f478-4a7e-965b-9dcf54100ee1)
 # Parts list
 ![plist](https://github.com/user-attachments/assets/e1a9dc2d-d649-44af-9765-2a330322938a)
-# Assembly procedure
+
 ![ple1](https://github.com/user-attachments/assets/536c8912-2620-4de3-a461-41931ba8edc8)
 
 PCB board and each acrylic plate.
@@ -12,6 +12,7 @@ PCB board and each acrylic plate.
 
 The bottom middle plate has a frame shape.
 
+# Firmware
 ![zero](https://github.com/user-attachments/assets/6a6165d0-f461-4206-819e-07e254b528ae)
 
 First, install the Vial firmware on the microcontroller and test whether it works.
@@ -34,7 +35,7 @@ You can freely change the key settings on this screen.
 
 For details, refer to the Vial keyboard site.
 
-
+# Assembly procedure
 ![daio](https://github.com/user-attachments/assets/58429e36-c04c-49d2-b7ae-72d676d1ebe3)
 
 Solder the components to the board.
