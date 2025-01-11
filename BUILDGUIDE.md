@@ -15,6 +15,7 @@ The bottom middle plate has a frame shape.
 ![zero](https://github.com/user-attachments/assets/6a6165d0-f461-4206-819e-07e254b528ae)
 
 First, install the Vial firmware on the microcontroller and test whether it works.
+
 While pressing the BOOT button on the RP2040-ZERO, connect it to the PC using the USB Type-C cable.
 
 ![stre](https://github.com/user-attachments/assets/2368563c-54c0-4be3-8b4a-fe820cadefca)
