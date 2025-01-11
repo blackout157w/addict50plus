@@ -3,4 +3,4 @@
 
 ![back](https://github.com/user-attachments/assets/74857b51-bd84-4b05-b040-6a4c80144de9)
 
-# This is a PUNKS Mechanical Gaming Keyboard.
+# This is a PUNKS Mechanical Keyboard.
