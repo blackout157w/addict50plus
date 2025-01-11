@@ -146,7 +146,7 @@ On this side, cut off the extra length of the pin header with nippers and solder
 
 Soldering complete.
 # CASE
-![spe](https://github.com/user-attachments/assets/f467cccf-fbc0-4cfb-ad38-1d241ff065d0)
+![pcbacry](https://github.com/user-attachments/assets/9ff19627-1ba0-4025-a097-c16c7028e105)
 
 Installation order of each plate 
 1. Insert the screw from the top side of the board and attach the spacer.
