@@ -149,7 +149,7 @@ Soldering complete.
 ![pcbacry](https://github.com/user-attachments/assets/9ff19627-1ba0-4025-a097-c16c7028e105)
 
 Installation order of each plate 
-1. Insert the screw from the top side of the board and attach the spacer.
+1. Insert the screw from the top side of the PCB board and attach the spacer.
 2. Place the 3mm middle acrylic on the bottom side so that it fits into the spacer hole.
 3. Place the 2mm acrylic on the bottom side and attach it with screws.
 
