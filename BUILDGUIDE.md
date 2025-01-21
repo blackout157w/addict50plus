@@ -7,18 +7,18 @@
 
 PCB board and each acrylic plate.
 
-![mid](https://github.com/user-attachments/assets/af96703d-75b7-4964-8698-dce49e05a9b3)
+![mid](images/mid.jpg)
 
 The bottom middle plate has a frame shape.
 
 # FIRMWARE
-![zero](https://github.com/user-attachments/assets/6a6165d0-f461-4206-819e-07e254b528ae)
+![zero](images/zero.jpg)
 
 First, install the Vial firmware on the microcontroller and test whether it works.
 
 While pressing the BOOT button on the RP2040-ZERO, connect it to the PC using the USB Type-C cable.
 
-![stre](https://github.com/user-attachments/assets/2368563c-54c0-4be3-8b4a-fe820cadefca)
+![stre](images/stre.jpg)
 
 Since it starts with mass storage, copy the addict50plus_Vial.uf2 file into the automatically opened folder.
 
