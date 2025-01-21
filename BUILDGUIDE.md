@@ -157,41 +157,41 @@ Installation order of each plate
 The image of the installed spacer. 
 viewed from the side is upside down.
 
-![acry](https://github.com/user-attachments/assets/d17c68dd-e037-48b1-9191-a806dde19553)
+![acry](images/acry.jpg)
 
 Peel off the bottom middle acrylic protective sheet. Be careful not to break it as it is thin.
 
-![acry2](https://github.com/user-attachments/assets/819f9d5f-6d78-4225-bae9-80791923589f)
+![acry2](images/acry2.jpg)
 
 Attach the middle plate by fitting the spacer into the acrylic hole.
 
-![acry3](https://github.com/user-attachments/assets/31c3a761-7376-4d06-b235-d52e63c68ce4)
+![acry3](images/acry3.jpg)
 
 Place the middle plate in a frame shape as shown in the image.
 
-![acry4](https://github.com/user-attachments/assets/888261e6-15cb-4546-9e56-255a6dd1eb7a)
+![acry4](images/acry4.jpg)
 
 Place 2mm of acrylic on the bottom side and secure with screws.
 
 The rubber feet stabilize the position of the image.When using a rotary encoder, I think it will be easier to push the button if you attach the rubber feet near the rotary encoder.
 
-![acry5](https://github.com/user-attachments/assets/50af4fb0-865e-4fdd-9e38-2dec7b14b745)
+![acry5](images/acry5.jpg)
 
 Peel off the protective sheet from the top two acrylic sheets and place them on the board.
 
-![acry6](https://github.com/user-attachments/assets/1715ed4a-61c3-4c3d-b36c-5124e2f5f096)
+![acry6](images/acry6.jpg)
 
 Just place it in the order of middle → top
 
-![acry7](https://github.com/user-attachments/assets/d3d84f01-e053-483b-9c61-633095871cd5)
+![acry7](images/acry7.jpg)
 
 Insert the key switch starting from the outer corner.
 
-![acry8](https://github.com/user-attachments/assets/65112eab-0355-44d3-a739-1394181c9c73)
+![acry8](images/acry8.jpg)
 
 All key switches installed.
 # TEST
-![ledt](https://github.com/user-attachments/assets/826a8175-cfe8-4690-8351-5bc71a13871f)
+![ledt](images/ledt.jpg)
 
 Connect it to a computer with a USB cable, and if you have attached an LED, turn it on and test.
 
@@ -201,7 +201,7 @@ The LED immediately to the left of the microcontroller is a layer indicator.
 
 The color changes independently because.
 # FINAL BUILD
-![end](https://github.com/user-attachments/assets/64251e38-35f9-44e7-b2a0-229c0c8b8eaa)
+![end](images/end.jpg)
 
 Completed by attaching the keycaps. The rotary encoder knob is approximately 17mm in diameter.
 
