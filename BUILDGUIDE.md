@@ -1,7 +1,7 @@
 # addict50plus Keyboard BUILD GUIDE
 ![main](images/main.png)
 # PARTS LIST
-![plist](images/plist)
+![plist](images/plist.png)
 
 ![ple1](https://github.com/user-attachments/assets/536c8912-2620-4de3-a461-41931ba8edc8)
 
