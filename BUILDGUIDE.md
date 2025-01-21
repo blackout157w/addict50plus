@@ -1,5 +1,5 @@
 # addict50plus Keyboard BUILD GUIDE
-![main](https://github.com/blackout157w/addict50plus/tree/main/images/main.png)
+![main](images/main.png)
 # PARTS LIST
 ![plist](https://github.com/user-attachments/assets/e1a9dc2d-d649-44af-9765-2a330322938a)
 
