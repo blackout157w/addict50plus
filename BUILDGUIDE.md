@@ -18,7 +18,7 @@ First, install the Vial firmware on the microcontroller and test whether it work
 
 While pressing the BOOT button on the RP2040-ZERO, connect it to the PC using the USB Type-C cable.
 
-![stre](images/stre.jpg)
+![stre](images/stre.png)
 
 Since it starts with mass storage, copy the addict50plus_Vial.uf2 file into the automatically opened folder.
 
