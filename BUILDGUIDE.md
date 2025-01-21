@@ -3,7 +3,7 @@
 # PARTS LIST
 ![plist](images/plist.png)
 
-![ple1](https://github.com/user-attachments/assets/536c8912-2620-4de3-a461-41931ba8edc8)
+![ple1](images/ple1.jpg)
 
 PCB board and each acrylic plate.
 
