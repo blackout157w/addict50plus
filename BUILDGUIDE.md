@@ -103,13 +103,13 @@ Install all LEDs so that the terminal with the notch is at the mark on the top r
 
 As with other mounting parts, I think it will be easier to install if you solder that part in advance.
 
-![mx](https://github.com/user-attachments/assets/a2e7f14d-3f7a-46ae-84f8-fcdb33f440be)
+![mx](images/mx.jpg)
 
 Next, install the socket for the MX switch in the same direction as the mark on the board.
 
 I think it will be easier to work if you solder only the pad on one side as shown in the photo.
 
-![re](https://github.com/user-attachments/assets/41dc5d65-db67-4fb1-b106-effedc75b5c1)
+![re](images/re.jpg)
 
 Only SW51 has the option to select either a key switch or a rotary encoder.
 
@@ -119,40 +119,40 @@ For the diode D51, make sure the vertical line is at the bottom.
 
 Install in the direction shown in the image.
 
-![mcu](https://github.com/user-attachments/assets/1b987be4-356f-4747-ab10-511b389eff81)
+![mcu](images/mcu.jpg)
 
 To install the microcomputer, set it as shown in the photo.If you set the short end of the pin header included with RP2040-ZERO on the microcomputer side, the height will be just right and it will be easier to work.
 
-![mcu2](https://github.com/user-attachments/assets/a26d55a2-2e2f-4a5f-bbc1-1934699cd938)
+![mcu2](images/mcu2.jpg)
 
 Solder the short end of the pin header. 
 
 There is no need to cut it because the height will be just right.
 
-![mcu3](https://github.com/user-attachments/assets/2887e272-c506-438c-8334-f2f02d54815a)
+![mcu3](images/mcu3.jpg)
 
 Solder from the end of each pin header to prevent it from shifting, then solder all pins.
 
-![mcu4](https://github.com/user-attachments/assets/dd2b47ab-6131-4c8d-a1f5-535d82367242)
+![mcu4](images/mcu4.jpg)
 
 Soldering complete.
 
-![mcu5](https://github.com/user-attachments/assets/a633a457-eef8-4eb1-8fa1-5dec66038e8c)
+![mcu5](images/mcu5.jpg)
 
 On this side, cut off the extra length of the pin header with nippers and solder all the pins.
 
-![mcu6](https://github.com/user-attachments/assets/601c1692-9c47-4084-b79c-f15222097acf)
+![mcu6](images/mcu6.jpg)
 
 Soldering complete.
 # CASE
-![pcbacry](https://github.com/user-attachments/assets/9ff19627-1ba0-4025-a097-c16c7028e105)
+![pcbacry](images/pcbacry.png)
 
 Installation order of each plate 
 1. Insert the screw from the top side of the PCB board and attach the spacer.
 2. Place the 3mm middle acrylic on the bottom side so that it fits into the spacer hole.
 3. Place the 2mm acrylic on the bottom side and attach it with screws.
 
-![spe2](https://github.com/user-attachments/assets/24789a11-3fc9-4e59-bbe4-88adbaf9de89)
+![spe2](images/spe2.jpg)
 
 The image of the installed spacer. 
 viewed from the side is upside down.
