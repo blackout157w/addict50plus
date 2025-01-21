@@ -24,7 +24,7 @@ Since it starts with mass storage, copy the addict50plus_Vial.uf2 file into the 
 
 The file can be downloaded from my GitHub.
 
-![vial](https://github.com/user-attachments/assets/30a668e1-1343-4ddd-8fe3-d758f2bc0a6a)
+![vial](images/vial.jpg)
 
 After restarting the microcomputer, check if you can connect from the Vial homepage using the Vial app or browser.
 
@@ -35,13 +35,13 @@ You can freely change the key settings on this screen.
 For details, refer to the Vial keyboard site.
 
 # SOLDERING
-![daio](https://github.com/user-attachments/assets/58429e36-c04c-49d2-b7ae-72d676d1ebe3)
+![daio](images/daio.jpg)
 
 Solder the components to the board.
 
 Solder the diode first.
 
-![daio2](https://github.com/user-attachments/assets/120a447d-907a-41fb-af02-7091d93d8d43)
+![daio2](images/daio2.jpg)
 
 The frame to the left of the letter D1 is where the diode will be installed.
 
@@ -51,7 +51,7 @@ I think it will be easier to work if you solder it to one side of the board in a
 
 Diode Solder in the same direction except for D51, where a rotary encoder can be attached.
 
-![mos](https://github.com/user-attachments/assets/21b3f21c-ca7a-43ac-9fa8-7687f5e49a9b)
+![mos](images/mos.jpg)
 
 Next, solder the MOSFET and chip resistor for the LED level shift circuit.
 
@@ -59,19 +59,19 @@ The small part in the image is the MOSFET.
 
 If you are not attaching an LED, you can skip this step.
 
-![mos2](https://github.com/user-attachments/assets/2f440976-86ed-43c3-85a3-33f2099eb421)
+![mos2](images/mos2.jpg)
 
 Like the diode, I think it will be easier to install if you solder it to one spot on the board in advance.
 
-![chip](https://github.com/user-attachments/assets/156908dc-37ef-4918-ad72-263d05994b0b)
+![chip](images/chip.jpg)
 
 These two chip resistors are also soldered to one side of the board and then installed.
 
-![chip2](https://github.com/user-attachments/assets/62dae246-c0a4-41fa-bb9e-686c172c5059)
+![chip2](images/chip2.jpg)
 
 The installed resistor has no directionality, so it can be installed in either direction.
 
-![led](https://github.com/user-attachments/assets/1a2a2e0b-1fad-4619-9b2c-31ca7b0edeaf)
+![led](images/led.jpg)
 
 Next, attach the LED, but if you are not attaching an LED, you can omit this.
 
@@ -81,23 +81,23 @@ I think this can be prevented.
 
 If you do not have a temperature-controlled soldering iron, I think it is a good idea to avoid applying the soldering iron to one LED continuously for a long time.
 
-![led2](https://github.com/user-attachments/assets/38a90d2c-04d3-4402-89bd-d61c1ccaeba9)
+![led2](images/led2.jpg)
 
 If you have a test microcontroller, check the LED operation here.
 
-![led3](https://github.com/user-attachments/assets/ef97bc40-bf67-4638-b1f8-9e4f710489d9)
+![led3](images/led3.jpg)
 
 RED
 
-![led4](https://github.com/user-attachments/assets/c40e4c6c-d5f4-4c0a-8d8e-cf2b539077e2)
+![led4](images/led4.jpg)
 
 GREEN
 
-![led5](https://github.com/user-attachments/assets/09f0e4ac-f2f7-4a1e-9ad0-0b3d9cea357a)
+![led5](images/led5.jpg)
 
 BLUE
 
-![led6](https://github.com/user-attachments/assets/ff874670-ddec-4b11-8f97-3f4e47a7b747)
+![led6](images/led6.jpg)
 
 Install all LEDs so that the terminal with the notch is at the mark on the top right.
 
