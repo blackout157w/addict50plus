@@ -16,6 +16,14 @@ https://note.com/157w_allian/n/n3d5c8ffbd425
 # This is a RGB matrix Keyboard.
 
 
+
+
 https://github.com/blackout157w/addict50plus/tree/main/firmware/RGB%20Matrix%20Lighting
 
 ↑Click here for RGB matrix Lighting firmware
+
+
+
+https://github.com/blackout157w/addict50plus/tree/main/firmware/RP2040Zero%20LED%20Lighting
+
+↑Click here for RP2040Zero Lighting firmware
