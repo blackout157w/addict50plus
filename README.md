@@ -18,13 +18,13 @@ https://note.com/157w_allian/n/n3d5c8ffbd425
 ![addict50plus-rgb1](images/addict50plus-rgb1.gif)
 
 
-https://github.com/blackout157w/addict50plus/tree/main/firmware/RGB%20Matrix%20Lighting
+https://github.com/blackout157w/addict50plus/tree/main/firmware/RGB_Matrix_Lighting
 
 ↑Click here for RGB matrix Lighting firmware
 
 ![addict50plus-rpled1](images/addict50plus-rpled1.gif)
 
 
-https://github.com/blackout157w/addict50plus/tree/main/firmware/RP2040Zero%20LED%20Lighting
+https://github.com/blackout157w/addict50plus/tree/main/firmware/RP2040Zero_LED_Lighting
 
 ↑Click here for RP2040Zero Lighting firmware
