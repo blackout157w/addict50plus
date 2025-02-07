@@ -13,4 +13,6 @@ https://note.com/157w_allian/n/n3d5c8ffbd425
 
 ↑Click here for Japanese version build guide
 
-# This is a RGB  Keyboard.
+# This is a RGB matrix Keyboard.
+
+
