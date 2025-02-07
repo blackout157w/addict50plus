@@ -25,6 +25,6 @@ https://github.com/blackout157w/addict50plus/tree/main/firmware/RGB_Matrix_Light
 ![addict50plus-rpled1](images/addict50plus-rpled1.gif)
 
 
-https://github.com/blackout157w/addict50plus/tree/main/firmware/RP2040Zero_LED_Lighting
+https://github.com/blackout157w/addict50plus/tree/main/firmware/RP2040-Zero_LED_Lighting
 
 ↑Click here for RP2040Zero Lighting firmware
