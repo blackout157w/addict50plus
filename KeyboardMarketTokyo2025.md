@@ -1,12 +1,11 @@
 # Keyboard Market Tokyo 2025
 
 # キーボードキット梱包の内容
-注：＋ドライバーは付属しません
-こちらの部品リストのLED以外の物が入っております
+こちらの部品リストのSMD LED以外の物が入っております
 ![plist](images/plist.png)
 
 ![addictnakami](images/addictnakami.jpg)
-
+注：＋ドライバーは付属しません
 # 完成後は梱包資材がキーボードケースになります
 ![addictcase](images/addictcase.jpg)
 
