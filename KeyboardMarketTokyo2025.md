@@ -4,7 +4,7 @@
 注：＋ドライバーは付属しません
 ![addictnakami](images/addictnakami.jpg)
 
-# 完成後はキーボードケースになります
+# 完成後は梱包がキーボードケースになります
 ![addictcase](images/addictcase.jpg)
 
 ![addictmeishi](images/addictmeishi.jpg)
