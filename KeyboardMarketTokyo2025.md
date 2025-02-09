@@ -7,5 +7,5 @@
 # 完成後は梱包資材がキーボードケースになります
 ![addictcase](images/addictcase.jpg)
 
-# 何かご不明な点がございましたら名刺SNSのDMまで連絡ください
+# 何かご不明な点がございましたら名刺SNSのDMにご連絡ください
 ![addictmeishi](images/addictmeishi.jpg)
