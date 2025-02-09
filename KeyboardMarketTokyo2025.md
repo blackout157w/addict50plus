@@ -1,6 +1,7 @@
 # Keyboard Market Tokyo 2025
 
-# キーボードキット梱包の中身
+# キーボードキット梱包の内容
+注：＋ドライバーは付属しません
 ![addictnakami](images/addictnakami.jpg)
 
 # 完成後はキーボードケースになります
