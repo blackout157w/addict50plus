@@ -1,7 +1,7 @@
 # Keyboard Market Tokyo 2025
 
 # キーボードキット梱包の内容
-こちらの部品リストのSMD LED以外の物が入っております
+こちらの部品リストのSMD LED以外の物全て入っております
 ![plist](images/plist.png)
 
 ![addictnakami](images/addictnakami.jpg)
