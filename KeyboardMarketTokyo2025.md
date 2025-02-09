@@ -2,6 +2,7 @@
 
 # キーボードキット梱包の内容
 こちらの部品リストのSMD LED以外の物全て入っております
+LEDを付ける場合は別途ご用意ください
 ![plist](images/plist.png)
 
 ![addictnakami](images/addictnakami.jpg)
