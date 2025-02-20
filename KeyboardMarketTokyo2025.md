@@ -2,6 +2,7 @@
 
 # キーボードキット梱包の内容
 こちらのリストの部品が全て入っております
+
 ![addict50plusPartslist2025keyket](images/addict50plusPartslist2025keyket.png)
 
 ![addictnakami](images/addictnakami.jpg)
@@ -9,5 +10,4 @@
 # 完成後は梱包資材がキーボードケースになります
 ![addictcase](images/addictcase.jpg)
 
-ご不明な点がございましたらSNSのDMにご連絡ください
 ![addictmeishi](images/addictmeishi.jpg)
