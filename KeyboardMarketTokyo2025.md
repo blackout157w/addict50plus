@@ -2,7 +2,7 @@
 
 # キーボードキット梱包の内容
 こちらのリストの部品が全て入っております
-![addict50plusPartslist2025keyket](images/addict50plusPartslist2025keyket)
+![addict50plusPartslist2025keyket](images/addict50plusPartslist2025keyket.png)
 
 ![addictnakami](images/addictnakami.jpg)
 注：＋ドライバーは付属しません
