@@ -5,10 +5,3 @@
 
 ![addict50plusPartslist2025keyket](images/addict50plusPartslist2025keyket.png)
 
-![addictnakami](images/addictnakami.jpg)
-
-# 梱包ケースはキーボードケースになります
-![addictcase](images/addictcase.jpg)
-
-![addictmeishi](images/addictmeishi.jpg)
-
