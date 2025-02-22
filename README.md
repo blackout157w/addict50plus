@@ -3,7 +3,7 @@
 
 ![back](images/back.png)
 
-# This is a PUNKS Mechanical Keyboard.
+# This is a Mechanical Keyboard.
 
 https://github.com/blackout157w/addict50plus/blob/main/BUILDGUIDE.md
 
