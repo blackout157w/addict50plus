@@ -1,7 +1,7 @@
 # Keyboard Market Tokyo 2025
 
 # addict50plusキーボードキットの内容
-こちらのリストの部品が入っております
+下記リストの部品が入っております
 
 ![addict50plusPartslist2025keyket](images/addict50plusPartslist2025keyket.png)
 
