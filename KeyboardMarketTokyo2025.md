@@ -10,7 +10,7 @@
 If you have any questions, please contact us via DM on the business card's X (Twitter) or contact the creator on note.com.
 ![addictnakami](images/addictnakami.jpg)
 
-# 梱包ケースはキーボードケースになります
+# キットケースはキーボードケースにもなります
 ![addictcase](images/addictcase.jpg)
 
 ![addictmeishi](images/addictmeishi.jpg)
