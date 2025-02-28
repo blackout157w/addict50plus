@@ -3,6 +3,7 @@
 # addict50plusキーボードキットの内容
 下記リストの電子部品とケース部品が製品ケースに入っております
 
+キット以外に必要な部品は別途ご用意ください
 
 ![addict50plusPartslist2025keyket](images/addict50plusPartslist2025keyket.png)
 
