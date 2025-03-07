@@ -8,6 +8,7 @@
 ![addict50plusPartslist2025keyket](images/addict50plusPartslist2025keyket.png)
 
 キット価格は8000円です
+
 販売数は3セットを予定しております
 
 ※ご不明な点があれば名刺のX(Twitter)のDM又はnote.comのクリエイターへのお問い合わせまでご連絡ください。
