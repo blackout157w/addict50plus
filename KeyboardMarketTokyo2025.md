@@ -1,7 +1,7 @@
 # Keyboard Market Tokyo 2025
 
 # addict50plusキーボードキットの内容
-下記リストの電子部品とケース部品がキーボードケースに入っております
+下記リストの電子部品とケース部品が梱包ケースに入っております
 
 キット以外に必要な部品は別途ご用意ください
 
@@ -11,17 +11,17 @@
 
 販売数は3セットを予定しております
 
-# キーボードマーケット2025限定で各おまけを入れました！
+# キーボードマーケット2025限定のおまけを入れました
 
 〇Vialファーム書き込み動作テスト済みのマイコン
 
-〇アクリルプレート取り付け時のクリーニングクロス
+〇アクリルプレートお掃除用のクリーニングクロス
 
 〇addict50plusを打鍵しているオリキャラステッカー
 
 ![omake](images/omake.jpg)
 
-# 予備部品を別の小袋に入れておきます
+# 予備部品を別の小袋（写真左）に入れました
 
 ![yobi](images/yobi.jpg)
 
@@ -31,7 +31,7 @@
 If you have any questions, please contact us via DM on the business card's X (Twitter) or contact the creator on note.com.
 ![addictnakami](images/addictnakami.jpg)
 
-# 完成後はキーボードケースとしてご利用いただけます
+# 梱包ケースはキーボードケースとしてご利用いただけます
 ![addictcase](images/addictcase.jpg)
 
 ![addictmeishi](images/addictmeishi.jpg)
