@@ -2,7 +2,8 @@
 
 https://github.com/blackout157w/addict50plus/blob/main/KeyboardMarketTokyo2025.md
 
-↑Click here for KeyboardMarketTokyo2025 contents
+↑こちらのサイトでキーボードマーケット2025展示販売の内容が確認できます。
+Click here for KeyboardMarketTokyo2025 contents
 
 ![top](images/top.jpg)
 
