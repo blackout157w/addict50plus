@@ -21,7 +21,7 @@
 
 ![omake](images/omake.jpg)
 
-# キットの部品数量以外に予備部品を別の小袋に入れておきます
+# 予備部品を別の小袋に入れておきます
 
 ![yobi](images/yobi.jpg)
 
