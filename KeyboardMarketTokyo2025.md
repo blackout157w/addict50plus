@@ -11,12 +11,12 @@
 
 販売数は3セットを予定しております
 
-※ご不明な点があれば名刺のX(Twitter)のDM又はnote.comのクリエイターへのお問い合わせまでご連絡ください。
+※購入後にご不明な点があれば名刺のX(Twitter)のDM又はnote.comのクリエイターへのお問い合わせまでご連絡ください。
 
 If you have any questions, please contact us via DM on the business card's X (Twitter) or contact the creator on note.com.
 ![addictnakami](images/addictnakami.jpg)
 
-# 製品ケースはキーボードケースとしてご利用いただけます
+製品ケースはキーボードケースとしてご利用いただけます
 ![addictcase](images/addictcase.jpg)
 
 ![addictmeishi](images/addictmeishi.jpg)
