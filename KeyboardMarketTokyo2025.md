@@ -21,7 +21,7 @@
 
 ![omake](images/omake.jpg)
 
-# 予備部品を別の小袋に入れておきますのでもしもの時にご利用ください
+# キットの部品数量以外に予備部品を別の小袋に入れておきます
 
 ![yobi](images/yobi.jpg)
 
@@ -31,7 +31,7 @@
 If you have any questions, please contact us via DM on the business card's X (Twitter) or contact the creator on note.com.
 ![addictnakami](images/addictnakami.jpg)
 
-完成後、製品ケースはキーボードケースとしてご利用いただけます
+# 製品ケースはキーボードケースとしてご利用いただけます
 ![addictcase](images/addictcase.jpg)
 
 ![addictmeishi](images/addictmeishi.jpg)
